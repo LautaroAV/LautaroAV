@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Lautaro Nicolás Avila</h1>
-<h3 align="center">Estudiante de Sistemas de Información de Argentina</h3>
+<h1 align="center">Hi 👋, I'm Lautaro</h1>
+<h3 align="center">Estudiante de Sistemas de Información</h3>
 
 - 🔭 I’m currently studying Licenciatura en sistemas de información
 
 - 🌱 I’m currently learning Django,React,Testing y Java
 
-- 📫 How to reach me lautyx027@gmail.com
 
 <p align="left">
 </p>
